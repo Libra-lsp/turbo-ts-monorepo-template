@@ -1,0 +1,18 @@
+// {
+//   "typescript.tsdk": "./node_modules/typescript/lib",
+//   "eslint.format.enable": true, // 开启保存时自动修复
+//   // 保存时自动格式化 (根据根目录下‘.prettierrc文件配置项’)
+//   "editor.formatOnSave": true,
+//   "javascript.format.enable": false,
+//   "typescript.format.enable": false,
+//   "[javascript]": {
+// 		"editor.defaultFormatter": "esbenp.prettier-vscode"
+// 	},
+//   "[json]": {
+// 		"editor.defaultFormatter": "esbenp.prettier-vscode"
+// 	},
+// 	"[typescript]": {
+// 		"editor.defaultFormatter": "esbenp.prettier-vscode"
+// 	},
+//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+// }

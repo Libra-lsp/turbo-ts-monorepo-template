@@ -1,0 +1,3 @@
+# @repo/ui
+
+Simple package.

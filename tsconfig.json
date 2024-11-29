@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "target": "ESNext",
+        "sourceMap": false,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "isolatedModules": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+        "esModuleInterop": true,
+        // "allowImportingTsExtensions": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        // "declaration": true,
+        // "declarationMap": false,
+        // "emitDeclarationOnly": true,
+        "paths": {
+            "@/*": ["./src/*"]
+        }
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules", "**/dist"]
+}
