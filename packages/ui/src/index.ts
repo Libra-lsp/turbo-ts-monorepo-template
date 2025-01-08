@@ -14,4 +14,4 @@ import "./style.css";
 // `;
 // setupCounter(document.querySelector<HTMLButtonElement>("#counter")!);
 
-export {setupCounter} from "@/counter";
+export { setupCounter } from "@/counter";
